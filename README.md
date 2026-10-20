@@ -3,7 +3,8 @@
 Sirve para guardar comentarios de estudiantes, buscarlos, contar palabras y hacer un resumen usando tuplas y listas.
 
 ## Como ejecutarlo
-Hay q tener instalado Python y correr este comando en la terminal:
+Hay que tener instalado Python y correr este comando en la terminal:
+
 ```bash
 python main.py
 
